@@ -1,0 +1,7 @@
+{"buttons":[
+  {
+    "name": "supplcounter",
+    "address": "your amazon dash button's mac address here",
+    "cmd": "/your/path/here/supplcounter.py"
+  }
+]}
